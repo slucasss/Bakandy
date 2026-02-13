@@ -1,0 +1,34 @@
+{
+  "projects": {
+    "Bakandy": {
+      "additionalDependencies": [
+        "SDL2.lib",
+        "SDL2_image.lib",
+        "SDL2main.lib"
+
+      ],
+      "additionalIncludeDirectories": [
+        "../../lib/SDL2/include",
+        "../../lib/SDL2_image/include"
+
+      ],
+      "additionalLibraryDirectories": [
+        "../../lib/SDL2/lib/x64",
+        "../../lib/SDL2_image/lib/x64"
+
+      ],
+      "dependencies": [],
+      "dependents": [],
+      "guid": "71C20FD3-34D4-2022-0778-6D2862AF6143",
+      "lib": false,
+      "pch": false,
+      "preprocessorDefinitions": [],
+      "vcpkg": false,
+      "window": false
+    }
+  },
+  "solution_guid": "52E8540D-1AA2-1AC7-48D9-748E4B5F060F",
+  "solution_name": "Bakandy",
+  "startup_project": "Bakandy",
+  "version": "1.17.4"
+}
