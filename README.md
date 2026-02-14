@@ -13,7 +13,7 @@ The objective is to survive during all the ennemies waves and defeat the boss.
 - Special skill for the player
 - Different ennemies with different patterns
 - Boss with different skills
-- Customisable level (in a .txt)
+- Customisable level (in a level.txt)
 
 ## Controles
 
@@ -25,3 +25,13 @@ The objective is to survive during all the ennemies waves and defeat the boss.
 - E -> Shoot homing bullet
 
 ## Screenshots
+
+Menu
+
+![image inf](pictures/1.png)
+
+Game loop
+
+![image inf](pictures/2.png)
+![image inf](pictures/3.png)
+
