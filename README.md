@@ -33,5 +33,24 @@ Menu
 Game loop
 
 ![image inf](pictures/2.png)
-![image inf](pictures/3.png)
 
+![image inf](pictures/BakandyShowcase.gif)
+
+
+## Installation
+
+1. Clone the repository:
+   git clone https://github.com/slucasss/Bakandy.git
+
+3. Get the .sln for visual studio
+```bash
+  .\SolutionGenerator.exe -make ./
+```
+
+3. Open it in visual studio
+
+4. Compile
+
+5. Paste the dlls in Debug file
+
+6. Run
