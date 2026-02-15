@@ -28,13 +28,13 @@ The objective is to survive during all the ennemies waves and defeat the boss.
 
 Menu
 
-![image inf](pictures/1.png)
+![image info](pictures/1.png)
 
 Game loop
 
-![image inf](pictures/2.png)
+![image info](pictures/2.png)
 
-![image inf](pictures/BakandyShowcase.gif)
+![image info](pictures/BakandyShowcase.gif)
 
 
 ## Installation
