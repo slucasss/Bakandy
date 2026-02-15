@@ -6,14 +6,14 @@ A shoot'em up made in C++ with SDL lib in 2 weeks
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-Completed-green)
 
-The objective is to survive during all the ennemies waves and defeat the boss. 
+The objective is to survive through enemies waves and defeat the boss. 
 
 ## Features
 - Controlable spaceship
 - Special skill for the player
-- Different ennemies with different patterns
+- Different enemies with different patterns
 - Boss with different skills
-- Customisable level (in a level.txt)
+- Customizable level (in a level.txt)
 
 ## Controles
 
@@ -21,7 +21,7 @@ The objective is to survive during all the ennemies waves and defeat the boss.
 - S -> Move down
 - Q -> Move left
 - D -> Move right
-- Space -> shoot classic bullet
+- Space -> Shoot classic bullet
 - E -> Shoot homing bullet
 
 ## Screenshots
